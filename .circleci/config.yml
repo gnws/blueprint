@@ -4,7 +4,7 @@
 version: 2.1
 
 orbs:
-  vulnachecka: whitesource/vulnerability-checker
+  vulnachecka: whitesource/vulnerability-checker@19.5.5
   
 workflows:
   test: 
